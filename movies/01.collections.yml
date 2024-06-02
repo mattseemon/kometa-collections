@@ -269,7 +269,7 @@ collections:
   The Expendables Collection:
     template: {name: Collection, collection: 126125}
   Fantastic Four Collection:
-    template: {name: Collection, collection: 9738}
+    template: {name: Collection, collection: 9744}
     tmdb_movie: 166424
     url_poster: https://theposterdb.com/api/assets/163905
   Fantastic Beasts Collection:
@@ -298,3 +298,5 @@ collections:
   US Marshal Collection:
     template: {name: Collection, collection: 721111}
     url_poster: https://theposterdb.com/api/assets/195411
+  Extraction Collection:
+    template: {name: Collection, collection: 735127}
