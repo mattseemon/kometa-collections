@@ -1,0 +1,110 @@
+---
+collections:
+  DC Comics Collection:
+    plex_search:
+      any:
+        collection:
+          - Aquaman Collection
+          - Batman Collection
+          - The Batman Collection
+          - The Dark Knight Collection
+          - Man of Steel Collection
+    summary: Collection of all DC Comics, movie adaptations.
+    tmdb_movie: 495764, 436270, 565770, 314
+    url_poster: https://theposterdb.com/api/assets/113156
+  DC Extended Universe:
+    plex_search:
+      any:
+        collection:
+          - Aquaman Collection
+          - Man of Steel Collection
+    summary: >-
+      The DC Extended Universe (DCEU) is an American media franchise and shared universe centered 
+      on a series of superhero films produced by DC Studios and distributed by Warner Bros. Pictures. 
+      It is based on characters that appear in American comic books published by DC Comics. The DCEU 
+      also includes comic books, short films, novels, and video games. Like the original DC Universe 
+      in comic books, the DCEU is established by crossing over common plot elements, settings, cast, 
+      and characters.
+    tmdb_movie: 495764, 436270, 565770
+    url_poster: https://theposterdb.com/api/assets/13713
+  Disney Live-Action Collection:
+    plex_search:
+      any:
+        collection:
+          - 101 Dalmatians (Live-Action) Collection
+          - Alice in Wonderland Collection
+          - Cruella Collection
+    summary: Collection of Live-Action remakes of Disney animated classics
+    tmdb_movie: 420817, 321612, 150689, 329996
+    url_poster: https://theposterdb.com/api/assets/86910
+  Marvel Cinematic Universe:
+    plex_search:
+      any:
+        collection:
+          - Spider-Man (MCU) Collection
+          - Ant-Man Collection
+          - The Avengers Collection
+          - Black Panther Collection
+          - Captain America Collection
+          - Captain Marvel Collection
+          - Doctor Strange Collection
+    summary: >-
+        The Marvel Cinematic Universe (MCU) is an American media franchise and shared universe 
+        centered on a series of superhero films produced by Marvel Studios. The films are based 
+        on characters that appear in American comic books published by Marvel Comics. The 
+        franchise also includes television series, short films, digital series, and literature. 
+        The shared universe, much like the original Marvel Universe in comic books, was 
+        established by crossing over common plot elements, settings, cast, and characters.
+    tmdb_movie: 497698, 533535
+    url_poster: https://theposterdb.com/api/assets/18648
+  Marvel Comics Collection:
+    plex_search:
+      any:
+        collection:
+          - Spider-Man (MCU) Collection
+          - The Amazing Spider-Man Collection
+          - Spider-Man Collection
+          - Ant-Man Collection
+          - The Avengers Collection
+          - Black Panther Collection
+          - Blade Collection
+          - Captain America Collection
+          - Captain Marvel Collection
+          - Deadpool Collection
+          - Doctor Strange Collection
+    summary: Collection of all Marvel comics, movie adaptations.
+    tmdb_movie: 497698, 9480
+    url_poster: https://theposterdb.com/api/assets/99697
+  The Cloverfield Collection:
+    summary: >-
+        Cloverfield is an American science fiction anthology film series and media franchise 
+        created and produced by J. J. Abrams consisting of three films, viral marketing 
+        websites linking the films together, and a tie-in manga to the first film titled 
+        Cloverfield/Kishin (2008), all set in a shared fictional universe referred to 
+        as the Cloververse. The franchise as a whole deals with creatures from other 
+        dimensions attacking Earth throughout various decades, all as a repercussion of an 
+        experiment by an astronaut team aboard the outer-space Cloverfield Station in the 
+        near-future. Each film depicts the reality-altering effects of their study, 
+        which was meant to find a new energy source replacing the planet's depleted resources, 
+        only to open portals for assault from various beasts from deep space.
+    tmdb_movie: 7191, 333371, 384521
+    url_poster: https://theposterdb.com/api/assets/52644
+  The Middle-Earth Collection:
+    plex_search:
+      any:
+        collection:
+          - The Lord of the Rings Collection
+          - The Hobbit Collection
+    url_poster: https://theposterdb.com/api/assets/191478
+  Transformers Complete Collection:
+    plex_search:
+      any:
+        collection:
+          - Transformers Collection
+          - Transformers - Rise of the Beasts Collection
+    summary: >-
+      The Transformers series follows the continuing battle between the Autobots and the Decepticons 
+      and ultimately, the triumph of good over evil. This collection includes films of the 
+      Transformers saga, Rise of the beasts saga and any standalone transformers movies. 
+    tmdb_movie: 424783
+    url_poster: https://theposterdb.com/api/assets/14175
