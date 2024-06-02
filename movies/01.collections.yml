@@ -14,320 +14,238 @@ collections:
     template: {name: Collection, collection: 125570}
     url_poster: https://theposterdb.com/api/assets/5575
   47 Ronin Collection:
-    tmdb_collection: 732461
-    tmdb_summary: 732461
+    template: {name: Collection, collection: 732461}
     url_poster: https://theposterdb.com/api/assets/281419
   48 Hrs. Collection:
-    tmdb_collection: 93295
-    tmdb_summary: 93295
+    template: {name: Collection, collection: 93295}
     url_poster: https://theposterdb.com/api/assets/186215
   AVP Collection:
-    tmdb_collection: 115762
-    tmdb_summary: 115762
+    template: {name: Collection, collection: 115762}
     url_poster: https://theposterdb.com/api/assets/26268
   Ace Ventura Collection:
-    tmdb_collection: 3167
-    tmdb_summary: 3167
+    template: {name: Collection, collection: 3167}
     url_poster: https://theposterdb.com/api/assets/6612
   Addams Family Collection:
-    tmdb_collection: 11716
-    tmdb_summary: 11716
+    template: {name: Collection, collection: 11716}
     url_poster: https://theposterdb.com/api/assets/78108
   Alex Cross Collection:
-    tmdb_collection: 142680
+    template: {name: Collection, collection: 142680}
     tmdb_movie: 94348
-    tmdb_summary: 142680
     url_poster: https://theposterdb.com/api/assets/194973
   Alice in Wonderland Collection:
-    tmdb_collection: 261307
-    tmdb_summary: 261307
+    template: {name: Collection, collection: 261307}
     url_poster: https://theposterdb.com/api/assets/36454
   Alien Collection:
-    tmdb_collection: 8091
-    tmdb_summary: 8091
+    template: {name: Collection, collection: 8091}
     url_poster: https://theposterdb.com/api/assets/65949
   American Pie (Spin-off) Collection:
-    tmdb_collection: 298820
-    tmdb_summary: 298820
+    template: {name: Collection, collection: 298820}
     url_poster: https://theposterdb.com/api/assets/960
   American Pie Collection:
-    tmdb_collection: 2806
-    tmdb_summary: 2806
+    template: {name: Collection, collection: 2806}
     url_poster: https://theposterdb.com/api/assets/68418
   Analyze Collection:
-    tmdb_collection: 110127
-    tmdb_summary: 110127
+    template: {name: Collection, collection: 110127}
     url_poster: https://theposterdb.com/api/assets/186196
   Ant-Man Collection:
-    tmdb_collection: 422834
-    tmdb_summary: 422834
+    template: {name: Collection, collection: 422834}
     url_poster: https://theposterdb.com/api/assets/29374
   Aquaman Collection:
-    tmdb_collection: 573693
-    tmdb_summary: 573693
+    template: {name: Collection, collection: 573693}
     url_poster: https://theposterdb.com/api/assets/206367
   Austin Powers Collection:
-    tmdb_collection: 1006
-    tmdb_summary: 1006
+    template: {name: Collection, collection: 1006}
     url_poster: https://theposterdb.com/api/assets/82348
   Avatar Collection:
-    tmdb_collection: 87096
-    tmdb_summary: 87096
+    template: {name: Collection, collection: 87096}
     url_poster: https://theposterdb.com/api/assets/267820
   Back to the Future Collection:
-    tmdb_collection: 264
-    tmdb_summary: 264
+    template: {name: Collection, collection: 264}
     url_poster: https://theposterdb.com/api/assets/63511
   Bad Boys Collection:
-    tmdb_collection: 14890
-    tmdb_summary: 14890
+    template: {name: Collection, collection: 14890}
     url_poster: https://theposterdb.com/api/assets/26832
   Barbershop Collection:
-    tmdb_collection: 176097
-    tmdb_summary: 176097
+    template: {name: Collection, collection: 176097}
     url_poster: https://theposterdb.com/api/assets/59272
   Basic Instinct Collection:
-    tmdb_collection: 86336
-    tmdb_summary: 86336
+    template: {name: Collection, collection: 86336}
     url_poster: https://theposterdb.com/api/assets/397494
   Batman Collection:
-    tmdb_collection: 120794
-    tmdb_summary: 120794
+    template: {name: Collection, collection: 120794}
     url_poster: https://theposterdb.com/api/assets/27394
   Best Exotic Marigold Hotel Collection:
-    tmdb_collection: 306937
-    tmdb_summary: 306937
+    template: {name: Collection, collection: 306937}
     url_poster: https://theposterdb.com/api/assets/48723
   Beverly Hills Cop Collection:
-    tmdb_collection: 85861
-    tmdb_summary: 85861
+    template: {name: Collection, collection: 85861}
     url_poster: https://theposterdb.com/api/assets/4031
   Bill & Ted Collection:
-    tmdb_collection: 91746
-    tmdb_summary: 91746
+    template: {name: Collection, collection: 91746}
     url_poster: https://theposterdb.com/api/assets/163640
   Black Panther Collection:
-    tmdb_collection: 529892
-    tmdb_summary: 529892
+    template: {name: Collection, collection: 529892}
     url_poster: https://theposterdb.com/api/assets/282655
   Blade Collection:
-    tmdb_collection: 735
-    tmdb_summary: 735
+    template: {name: Collection, collection: 735}
     url_poster: https://theposterdb.com/api/assets/12046
   Blade Runner Collection:
-    tmdb_collection: 422837
-    tmdb_summary: 422837
+    template: {name: Collection, collection: 422837}
     url_poster: https://theposterdb.com/api/assets/6081
   Bridget Jones Collection:
-    tmdb_collection: 8936
-    tmdb_summary: 8936
+    template: {name: Collection, collection: 8936}
     url_poster: https://theposterdb.com/api/assets/293468
   Cannonball Run Collection:
-    tmdb_collection: 101688
-    tmdb_summary: 101688
+    template: {name: Collection, collection: 101688}
     url_poster: https://theposterdb.com/api/assets/79716
   Captain America Collection:
-    tmdb_collection: 131295
-    tmdb_summary: 131295
+    template: {name: Collection, collection: 131295}
     url_poster: https://theposterdb.com/api/assets/194954
   Captain Marvel Collection:
-    tmdb_collection: 623911
-    tmdb_summary: 623911
+    template: {name: Collection, collection: 623911}
     url_poster: https://theposterdb.com/api/assets/431967
   Cities of Love Collection:
-    tmdb_collection: 626668
-    tmdb_summary: 626668
+    template: {name: Collection, collection: 626668}
     url_poster: https://theposterdb.com/api/assets/340590
   Coming to America Collection:
-    tmdb_collection: 647077
-    tmdb_summary: 647077
+    template: {name: Collection, collection: 647077}
     url_poster: https://theposterdb.com/api/assets/152607
   Confessions Collection:
-    tmdb_collection: 133891
-    tmdb_poster: 133891
-    tmdb_summary: 133891
+    template: {name: Collection, collection: 133891}
   Constantine Collection:
-    tmdb_collection: 1025281
-    tmdb_summary: 1025281
+    template: {name: Collection, collection: 1025281}
     url_poster: https://theposterdb.com/api/assets/423688
   Crank Collection:
-    tmdb_collection: 64751
-    tmdb_summary: 64751
+    template: {name: Collection, collection: 64751}
     url_poster: https://theposterdb.com/api/assets/17435
   Creed Collection:
-    tmdb_collection: 553717
-    tmdb_summary: 553717
+    template: {name: Collection, collection: 553717}
     url_poster: https://theposterdb.com/api/assets/84016
   Crocodile Dundee Collection:
-    tmdb_collection: 9332
-    tmdb_summary: 9332
+    template: {name: Collection, collection: 9332}
     url_poster: https://theposterdb.com/api/assets/4203
   Cruel Intentions Collection:
-    tmdb_collection: 52789
-    tmdb_summary: 52789
+    template: {name: Collection, collection: 52789}
     url_poster: https://theposterdb.com/api/assets/91091
   Cruella Collection:
-    tmdb_collection: 837007
-    tmdb_poster: 837007
-    tmdb_summary: 837007
+    template: {name: Collection, collection: 837007}
   Deadpool Collection:
-    tmdb_collection: 448150
-    tmdb_summary: 448150
+    template: {name: Collection, collection: 448150}
     url_poster: https://theposterdb.com/api/assets/148779
   Death Wish Collection:
-    tmdb_collection: 14377
-    tmdb_summary: 14377
+    template: {name: Collection, collection: 14377}
     url_poster: https://theposterdb.com/api/assets/164772
   Diary of a Wimpy Kid Collection:
-    tmdb_collection: 86110
-    tmdb_summary: 86110
+    template: {name: Collection, collection: 86110}
     url_poster: https://theposterdb.com/api/assets/83110
   Die Hard Collection:
-    tmdb_collection: 1570
-    tmdb_summary: 1570
+    template: {name: Collection, collection: 1570}
     url_poster: https://theposterdb.com/api/assets/35982
   Divergent Collection:
-    tmdb_collection: 283579
-    tmdb_summary: 283579
+    template: {name: Collection, collection: 283579}
     url_poster: https://theposterdb.com/api/assets/163697
   Doctor Strange Collection:
-    tmdb_collection: 618529
-    tmdb_summary: 618529
+    template: {name: Collection, collection: 618529}
     url_poster: https://theposterdb.com/api/assets/210060
   Dumb and Dumber Collection:
-    tmdb_collection: 96665
-    tmdb_poster: 96665
-    tmdb_summary: 96665
+    template: {name: Collection, collection: 96665}
   Dune Collection:
-    tmdb_collection: 726871
-    tmdb_summary: 726871
+    template: {name: Collection, collection: 726871}
     url_poster: https://theposterdb.com/api/assets/197348
   Fallen Collection:
-    tmdb_collection: 386534
-    tmdb_summary: 386534
+    template: {name: Collection, collection: 386534}
     url_poster: https://theposterdb.com/api/assets/52749
   Hercule Poirot (Kenneth Branagh) Collection:
-    tmdb_collection: 735384
-    tmdb_summary: 735384
+    template: {name: Collection, collection: 735384}
     url_poster: https://theposterdb.com/api/assets/230473
   In the Vineyard Collection:
-    tmdb_collection: 472917
-    tmdb_summary: 472917
+    template: {name: Collection, collection: 472917}
     url_poster: https://theposterdb.com/api/assets/372321
   James Bond Collection:
-    tmdb_collection: 645
-    tmdb_summary: 645
+    template: {name: Collection, collection: 645}
     url_poster: https://theposterdb.com/api/assets/201230
   Jurassic Park Collection:
-    tmdb_collection: 328
-    tmdb_summary: 328
+    template: {name: Collection, collection: 328}
     url_poster: https://theposterdb.com/api/assets/45080
   Man of Steel Collection:
-    tmdb_collection: 209131
-    tmdb_summary: 209131
+    template: {name: Collection, collection: 209131}
     url_poster: https://theposterdb.com/api/assets/206373
   Neighbors Collection:
-    tmdb_collection: 400700
-    tmdb_summary: 400700
+    template: {name: Collection, collection: 400700}
     url_poster: https://theposterdb.com/api/assets/92862
   Planet of the Apes (Reboot) Collection:
-    tmdb_collection: 173710
-    tmdb_poster: 173710
-    tmdb_summary: 173710
+    template: {name: Collection, collection: 173710}
   Predator Collection:
-    tmdb_collection: 399
-    tmdb_summary: 399
+    template: {name: Collection, collection: 399}
     url_poster: https://theposterdb.com/api/assets/9626
   Prometheus Collection:
-    tmdb_collection: 135416
-    tmdb_summary: 135416
+    template: {name: Collection, collection: 135416}
     url_poster: https://theposterdb.com/api/assets/372133
   Spider-Man (MCU) Collection:
-    tmdb_collection: 531241
-    tmdb_summary: 531241
+    template: {name: Collection, collection: 531241}
     url_poster: https://theposterdb.com/api/assets/379830
   Spider-Man Collection:
-    tmdb_collection: 556
-    tmdb_summary: 556
+    template: {name: Collection, collection: 556}
     url_poster: https://theposterdb.com/api/assets/171148
   The 28 Days/Weeks Later Collection:
-    tmdb_collection: 1565
-    tmdb_summary: 1565
+    template: {name: Collection, collection: 1565}
     url_poster: https://theposterdb.com/api/assets/4963
   The Amazing Spider-Man Collection:
-    tmdb_collection: 125574
-    tmdb_summary: 125574
+    template: {name: Collection, collection: 125574}
     url_poster: https://theposterdb.com/api/assets/26972
   The Avengers Collection:
-    tmdb_collection: 86311
-    tmdb_summary: 86311
+    template: {name: Collection, collection: 86311}
     url_poster: https://theposterdb.com/api/assets/47810
   The Batman Collection:
-    tmdb_collection: 948485
-    tmdb_summary: 948485
+    template: {name: Collection, collection: 948485}
     url_poster: https://theposterdb.com/api/assets/460791
   The Before Trilogy:
-    tmdb_collection: 123800
-    tmdb_summary: 123800
+    template: {name: Collection, collection: 123800}
     url_poster: https://theposterdb.com/api/assets/8645
   The Benji Collection:
-    tmdb_collection: 424830
-    tmdb_summary: 424830
+    template: {name: Collection, collection: 424830}
     url_poster: https://theposterdb.com/api/assets/392523
   The Boondock Saints Collection:
-    tmdb_collection: 87186
-    tmdb_summary: 87186
+    template: {name: Collection, collection: 87186}
     url_poster: https://theposterdb.com/api/assets/80255
   The Bourne Collection:
-    tmdb_collection: 31562
-    tmdb_summary: 31562
+    template: {name: Collection, collection: 31562}
     url_poster: https://theposterdb.com/api/assets/5420
   The Butterfly Effect Collection:
-    tmdb_collection: 52749
-    tmdb_summary: 52749
+    template: {name: Collection, collection: 52749}
     url_poster: https://theposterdb.com/api/assets/185481
   The Chronicles of Narnia Collection:
-    tmdb_collection: 420
-    tmdb_summary: 420
+    template: {name: Collection, collection: 420}
     url_poster: https://theposterdb.com/api/assets/86956
   The Chronicles of Riddick Collection:
-    tmdb_collection: 2794
-    tmdb_summary: 2794
+    template: {name: Collection, collection: 2794}
     url_poster: https://theposterdb.com/api/assets/169823
   The Dark Knight Collection:
-    tmdb_collection: 263
-    tmdb_summary: 263
+    template: {name: Collection, collection: 263}
     url_poster: https://theposterdb.com/api/assets/104597
   The Fast and the Furious Collection:
-    tmdb_collection: 9485
-    tmdb_summary: 9485
+    template: {name: Collection, collection: 9485}
     url_poster: https://theposterdb.com/api/assets/1070
   The Hobbit Collection:
-    tmdb_collection: 121938
-    tmdb_summary: 121938
+    template: {name: Collection, collection: 121938}
     url_poster: https://theposterdb.com/api/assets/191479
   The Jack Ryan Collection:
-    tmdb_collection: 192492
+    template: {name: Collection, collection: 192492}
     tmdb_movie: 137094, 4614
-    tmdb_summary: 192492
     url_poster: https://theposterdb.com/api/assets/150531
   The Lord of the Rings Collection:
-    tmdb_collection: 119
-    tmdb_summary: 119
+    template: {name: Collection, collection: 119}
     url_poster: https://theposterdb.com/api/assets/191480
   The Mighty Ducks Collection:
-    tmdb_collection: 10709
-    tmdb_poster: 10709
-    tmdb_summary: 10709
+    template: {name: Collection, collection: 10709}
   The Robert Langdon Collection:
-    tmdb_collection: 115776
-    tmdb_summary: 115776
+    template: {name: Collection, collection: 115776}
     url_poster: https://theposterdb.com/api/assets/94379
   Transformers - Rise of the Beasts Collection:
-    tmdb_collection: 939352
-    tmdb_summary: 939352
+    template: {name: Collection, collection: 939352}
     url_poster: https://theposterdb.com/api/assets/399002
   Transformers Collection:
-    tmdb_collection: 8650
-    tmdb_summary: 8650
+    template: {name: Collection, collection: 8650}
     url_poster: https://theposterdb.com/api/assets/84244
+  Philo & Clyde Collection:
+    template: {name: Collection, collection: 168182}
