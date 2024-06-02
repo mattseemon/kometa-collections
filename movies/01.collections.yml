@@ -1,17 +1,17 @@
 ---
 templates:
-  TMDB Collection:
+  Collection:
     optional:
-      - poster_id
-    tmdb_collection: <<col_id>>
-    tmdb_summary: <<col_id>>
-    url_poster: https://theposterdb.com/api/assets/<<poster_id>>
+      - collection
+      - movie
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    collection_order: release
 collections:
   101 Dalmatians (Live-Action) Collection:
-    template: {name: TMDB Collection, col_id: 124916, poster_id=223763}
+    template: {name: Collection, collection: 124916}
   300 Collection:
-    tmdb_collection: 125570
-    tmdb_summary: 125570
+    template: {name: Collection, collection: 125570}
     url_poster: https://theposterdb.com/api/assets/5575
   47 Ronin Collection:
     tmdb_collection: 732461
