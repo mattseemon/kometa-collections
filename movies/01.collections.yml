@@ -1,9 +1,14 @@
 ---
+templates:
+  TMDB Collection:
+    optional:
+      - poster_id
+    tmdb_collection: <<col_id>>
+    tmdb_summary: <<col_id>>
+    url_poster: https://theposterdb.com/api/assets/<<poster_id>>
 collections:
   101 Dalmatians (Live-Action) Collection:
-    tmdb_collection: 124916
-    tmdb_summary: 124916
-    url_poster: https://theposterdb.com/api/assets/223763
+    template: {name: TMDB Collection, col_id: 124916, poster_id=223763}
   300 Collection:
     tmdb_collection: 125570
     tmdb_summary: 125570
