@@ -26,3 +26,9 @@ collections:
     summary: Collection of Marilyn Monroe movies
     tmdb_actor: https://www.themoviedb.org/person/3149-marilyn-monroe
     url_poster: https://theposterdb.com/api/assets/259479
+  Jackie Chan Collection:
+    summary: Collection of Jackie Chan movies
+    tmdb_discover:
+      limit: 100
+      with_people: 18897
+    url_poster: https://theposterdb.com/api/assets/59205

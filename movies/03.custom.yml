@@ -10,7 +10,7 @@ collections:
           - The Dark Knight Collection
           - Man of Steel Collection
     summary: Collection of all DC Comics, movie adaptations.
-    tmdb_movie: 495764, 436270, 565770, 314
+    tmdb_movie: 495764, 436270, 565770, 314, 298618
     url_poster: https://theposterdb.com/api/assets/113156
   DC Extended Universe:
     plex_search:
@@ -25,7 +25,7 @@ collections:
       also includes comic books, short films, novels, and video games. Like the original DC Universe 
       in comic books, the DCEU is established by crossing over common plot elements, settings, cast, 
       and characters.
-    tmdb_movie: 495764, 436270, 565770
+    tmdb_movie: 495764, 436270, 565770, 298618
     url_poster: https://theposterdb.com/api/assets/13713
   Disney Live-Action Collection:
     plex_search:
@@ -55,7 +55,7 @@ collections:
         franchise also includes television series, short films, digital series, and literature. 
         The shared universe, much like the original Marvel Universe in comic books, was 
         established by crossing over common plot elements, settings, cast, and characters.
-    tmdb_movie: 497698, 533535
+    tmdb_movie: 497698, 533535, 524434
     url_poster: https://theposterdb.com/api/assets/18648
   Marvel Comics Collection:
     plex_search:
@@ -72,8 +72,9 @@ collections:
           - Captain Marvel Collection
           - Deadpool Collection
           - Doctor Strange Collection
+          - Fantastic Four Collection
     summary: Collection of all Marvel comics, movie adaptations.
-    tmdb_movie: 497698, 9480
+    tmdb_movie: 497698, 9480, 533535, 524434
     url_poster: https://theposterdb.com/api/assets/99697
   The Cloverfield Collection:
     summary: >-
@@ -96,6 +97,13 @@ collections:
           - The Lord of the Rings Collection
           - The Hobbit Collection
     url_poster: https://theposterdb.com/api/assets/191478
+    summary: >-
+      Middle-earth is the setting of much of the English writer J. R. R. Tolkien's fantasy. 
+      The term is equivalent to the Miðgarðr of Norse mythology and Middangeard in Old English works, 
+      including Beowulf. Middle-earth is the human-inhabited world, that is, the 
+      central continent of the Earth, in Tolkien's imagined mythological past. 
+      Tolkien's most widely read works, The Hobbit and The Lord of the Rings, are set entirely in Middle-earth.
+      This collection consists of the movie adaptations of both The Hobbit and The Lord of the Rings.
   Transformers Complete Collection:
     plex_search:
       any:
@@ -108,3 +116,26 @@ collections:
       Transformers saga, Rise of the beasts saga and any standalone transformers movies. 
     tmdb_movie: 424783
     url_poster: https://theposterdb.com/api/assets/14175
+  Wizarding World Collection:
+    plex_search:
+      any:
+        collection:
+          - Fantastic Beasts Collection
+          - Harry Potter Collection
+    url_poster: https://theposterdb.com/api/assets/422283
+    summary: >-
+      The Wizarding World is a fantasy media franchise and shared fictional universe centred on the 
+      Harry Potter novel series by J. K. Rowling. A series of films have been in production since 2000, 
+      and in that time eleven films have been produced—eight are adaptations of the Harry Potter novels 
+      and three are part of the Fantastic Beasts series.
+  The Man with no Name Collection:
+    tmdb_movie: 391, 938, 
+    url_poster: https://theposterdb.com/api/assets/211754
+    summary: >-
+      The Dollars Trilogy (Italian: Trilogia del dollaro), also known as the Man with No Name Trilogy 
+      (Italian: Trilogia dell'Uomo senza nome), is an Italian film series consisting of three Spaghetti 
+      Western films directed by Sergio Leone. The films are titled A Fistful of Dollars (1964), For a 
+      Few Dollars More (1965) and The Good, the Bad and the Ugly (1966). The series has become known 
+      for establishing the Spaghetti Western genre, and inspiring the creation of many more Spaghetti 
+      Western films. The three films are consistently listed among the best-rated Western films in history.
+

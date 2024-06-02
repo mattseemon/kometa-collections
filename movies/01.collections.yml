@@ -249,3 +249,52 @@ collections:
     url_poster: https://theposterdb.com/api/assets/84244
   Philo & Clyde Collection:
     template: {name: Collection, collection: 168182}
+  Downton Abbey Collection:
+    template: {name: Collection, collection: 925006}
+  Elizabeth Collection:
+    template: {name: Collection, collection: 100286}
+    url_poster: https://theposterdb.com/api/assets/211182
+  Enola Holmes Collection:
+    template: {name: Collection, collection: 829314}
+  The Equalizer Collection:
+    template: {name: Collection, collection: 523855}
+  Ernest Collection:
+    template: {name: Collection, collection: 330555}
+    url_poster: https://theposterdb.com/api/assets/14508
+  Evil Dead Collection:
+    template: {name: Collection, collection: 1960}
+    tmdb_movie: 109428
+  The Exorcist Collection:
+    template: {name: Collection, collection: 12263}
+  The Expendables Collection:
+    template: {name: Collection, collection: 126125}
+  Fantastic Four Collection:
+    template: {name: Collection, collection: 9744}
+    tmdb_movie: 
+    url_poster: https://theposterdb.com/api/assets/163905
+  Fantastic Beasts Collection:
+    template: {name: Collection, collection: 435259}
+    url_poster: https://theposterdb.com/api/assets/173773
+  Harry Potter Collection:
+    template: {name: Collection, collection: 1241}
+    url_poster: https://theposterdb.com/api/assets/162216
+  Fifty Shades Collection:
+    template: {name: Collection, collection: 344830}
+  The Omen Collection:
+    template: {name: Collection, collection: 10919}
+  Rambo Collection:
+    template: {name: Collection, collection: 5039}
+    url_poster: https://theposterdb.com/api/assets/47570
+  Clint Eastwood's Iwo Jima Collection:
+    template: {name: Collection, collection: 261382}
+    url_poster: https://theposterdb.com/api/assets/110496
+  Navarone Collection:
+    template: {name: Collection, collection: 366826}
+  The Musketeers Collection:
+    template: {name: Collection, collection: 87631}
+    url_poster: https://theposterdb.com/api/assets/165417
+  French Connection Collection:
+    template: {name: Collection, collection: 155474}
+  US Marshal Collection:
+    template: {name: Collection, collection: 721111}
+    url_poster: https://theposterdb.com/api/assets/195411
