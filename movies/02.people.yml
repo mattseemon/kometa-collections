@@ -1,28 +1,47 @@
 ---
+templates:
+  Person:
+    smart_filter:
+      any:
+        actor: tmdb
+        director: tmdb
+        writer: tmdb
+      tmdb_person: <<person>>
+      summary: Collection of <<person>> movies.
 collections:
-  Alfred Hitchcock Collection:
-    summary: Collection of Alfred Hitchcock Movies
-    tmdb_discover:
-      limit: 100
-      with_people: 2636
-    url_poster: https://theposterdb.com/api/assets/260922
-  Bruce Lee Collection:
-    summary: Collection of Bruce Lee movies
-    tmdb_discover:
-      limit: 100
-      with_people: 19429
-    url_poster: https://theposterdb.com/api/assets/48446
-  Bud Spencer & Terence Hill Collection:
-    summary: Collection of Bud Spencer and Terance Hill collaborations
-    tmdb_discover:
-      limit: 100
-      with_cast: 15140|18841
-    url_poster: https://theposterdb.com/api/assets/285006
-  John Grisham Collection:
-    summary: Collection of movies based on John Grisham
-    tmdb_writer: 11060
-    url_poster: https://theposterdb.com/api/assets/313833
-  Marilyn Monroe Collection:
-    summary: Collection of Marilyn Monroe movies
-    tmdb_actor: https://www.themoviedb.org/person/3149-marilyn-monroe
-    url_poster: https://theposterdb.com/api/assets/259479
+  Alfred Hitchcock:
+    template: {name: Person, person: 2636}
+  Bruce Lee:
+    template: {name: Person, person: 19429}
+  Bud Spencer & Terence Hill:
+    template: {name: Person, person: "15140|18841"}
+  John Grisham:
+    template: {name: Person, person: "11060"}
+  Marilyn Monroe:
+    template: {name: Person, person: "3149"}
+#  Alfred Hitchcock Collection:
+#    summary: Collection of Alfred Hitchcock Movies
+#    tmdb_discover:
+#      limit: 100
+#      with_people: 2636
+#    url_poster: https://theposterdb.com/api/assets/260922
+#  Bruce Lee Collection:
+#    summary: Collection of Bruce Lee movies
+#    tmdb_discover:
+#      limit: 100
+#      with_people: 19429
+#    url_poster: https://theposterdb.com/api/assets/48446
+#  Bud Spencer & Terence Hill Collection:
+#    summary: Collection of Bud Spencer and Terance Hill collaborations
+#    tmdb_discover:
+#      limit: 100
+#      with_cast: 15140|18841
+#    url_poster: https://theposterdb.com/api/assets/285006
+#  John Grisham Collection:
+#    summary: Collection of movies based on John Grisham
+#    tmdb_writer: 11060
+#    url_poster: https://theposterdb.com/api/assets/313833
+#  Marilyn Monroe Collection:
+#    summary: Collection of Marilyn Monroe movies
+#    tmdb_actor: https://www.themoviedb.org/person/3149-marilyn-monroe
+#    url_poster: https://theposterdb.com/api/assets/259479
