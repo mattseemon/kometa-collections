@@ -269,8 +269,8 @@ collections:
   The Expendables Collection:
     template: {name: Collection, collection: 126125}
   Fantastic Four Collection:
-    template: {name: Collection, collection: 9744}
-    tmdb_movie: 
+    template: {name: Collection, collection: 9738}
+    tmdb_movie: 166424
     url_poster: https://theposterdb.com/api/assets/163905
   Fantastic Beasts Collection:
     template: {name: Collection, collection: 435259}
