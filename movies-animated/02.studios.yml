@@ -4,6 +4,7 @@ templates:
     optional:
       - company
       - list
+      - poster
     tmdb_company: <<company>>
     tmdb_list: <<list>>
     sync_mode: sync
