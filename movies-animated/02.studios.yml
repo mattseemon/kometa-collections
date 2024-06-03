@@ -4,12 +4,10 @@ templates:
     optional:
       - company
       - list
-      - poster
     tmdb_company: <<company>>
     tmdb_list: <<list>>
     sync_mode: sync
     collection_order: release
-    url_poster: <<poster>>
     sort_title: <<collection_name>>
 collections:
   Tim Burton Productions:
