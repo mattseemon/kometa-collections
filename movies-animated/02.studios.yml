@@ -12,7 +12,7 @@ collections:
   Pixar Productions:
     smart_filter:
       all:
-        studio: 
+        studio: Pixar
     url_poster: https://theposterdb.com/api/assets/252417
   Dreamworks Studio Productions:
     smart_filter:
