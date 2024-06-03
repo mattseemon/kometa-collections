@@ -174,7 +174,7 @@ collections:
     plex_search:
       any:
         collection:
-          - Godzilla Collection
+          - Godzilla (MonsterVerse) Collection
     tmdb_movie: 929, 940721
     url_poster: https://theposterdb.com/api/assets/125532
     summary: The complete list of all Godzilla movies both, movies that are part of MonsterVerse and Standalone movies
@@ -182,7 +182,7 @@ collections:
     plex_search:
       any:
         collection:
-          - Kong Collection
+          - Kong (MonsterVerse) Collection
     tmdb_movie: 254
     url_poster: https://theposterdb.com/api/assets/43364
     summary: The complete list of all King King movies both, movies that are part of MonsterVerse and Standalone movies
@@ -202,7 +202,7 @@ collections:
           - Deadpool Collection
           - The Wolverine Collection
           - X-Men Collection
-    tmdb_movies: 340102
+    tmdb_movie: 340102
     url_poster: https://theposterdb.com/api/assets/32304
     summary: >-
       X-Men is an American superhero film series based on the Marvel Comics superhero team of the same name. 

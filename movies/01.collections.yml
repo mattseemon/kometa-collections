@@ -437,7 +437,7 @@ collections:
     template: {name: Collection, collection: 87359}
   The Mummy Collection:
     template: {name: Collection, collection: 1733}
-    tmbd_movie: 282035
+    tmdb_movie: 282035
   Murder Mystery Collection:
     template: {name: Collection, collection: 929336}
   My Big Fat Greek Wedding Collection:
