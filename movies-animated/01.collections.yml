@@ -1,0 +1,67 @@
+---
+templates:
+  Collection:
+    optional:
+      - collection
+      - movie
+    tmdb_collection_details: <<collection>>
+    tmdb_movie: <<movie>>
+    collection_order: release
+collections:
+  101 Dalmatians (Animated) Collection:
+    template: {name: Collection, collection: 100693}
+  The Addams Family (Animated) Collection:
+    template: {name: Collection, collection: 750822}
+  Aladdin Collection:
+    template: {name: Collection, collection: 86027}
+  Asterix and Obelix (Animation) Collection:
+    template: {name: Collection, collection: 86027}
+  Cars Collection:
+    template: {name: Collection, collection: 87118}
+  Despicable Me Collection:
+    template: {name: Collection, collection: 86066}
+  Fantasia Collection:
+    template: {name: Collection, collection: 55427}
+  Finding Nemo Collection:
+    template: {name: Collection, collection: 137697}
+  Frozen Collection:
+    template: {name: Collection, collection: 386382}
+  How to Train Your Dragon Collection:
+    template: {name: Collection, collection: 89137}
+  Ice Age Collection:
+    template: {name: Collection, collection: 8354}
+  The Incredibles Collection:
+    template: {name: Collection, collection: 468222}
+  The Jungle Book Collection:
+    template: {name: Collection, collection: 97459}
+  Kung Fu Panda Collection:
+    template: {name: Collection, collection: 77816}
+  The Lego Movie Collection:
+    template: {name: Collection, collection: 325470}
+    tmdb_movie: 324849, 274862
+  Lilo & Stitch Collection:
+    template: {name: Collection, collection: 97461}
+  The Lion King Collection:
+    template: {name: Collection, collection: 94032}
+  Madagascar Collection:
+    template: {name: Collection, collection: 14740}
+  Monsters, Inc. Collection:
+    template: {name: Collection, collection: 137696}
+  Minions Collection:
+    template: {name: Collection, collection: 544669}
+  Open Season Collection:
+    template: {name: Collection, collection: 66761}
+  Pocahontas Collection:
+    template: {name: Collection, collection: 136214}
+  Dreamworks Bible Stories Collection:
+    template: {name: Collection, collection: 1064555}
+  Shrek Collection:
+    template: {name: Collection, collection: 2150}
+  Spider-Man Spider-Verse Collection:
+    template: {name: Collection, collection: 573436}
+  Spirit Collection:
+    template: {name: Collection, collection: 806483}
+  Toy Story Collection:
+    template: {name: Collection, collection: 10194}
+  Zootopia Collection:
+    template: {name: Collection, collection: 1084247}
