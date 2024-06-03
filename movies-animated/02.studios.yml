@@ -8,7 +8,14 @@ collections:
     smart_filter:
       all:
         studio: Disney
-  Pixar:
+    url_poster: https://theposterdb.com/api/assets/252457
+  Pixar Productions:
     smart_filter:
       all:
-        studio: Pixar
+        studio: 
+    url_poster: https://theposterdb.com/api/assets/252417
+  Dreamworks Studio Productions:
+    smart_filter:
+      all:
+        studio: Dreamworks
+    url_poster: https://theposterdb.com/api/assets/462033
