@@ -1,20 +1,14 @@
 ---
-templates:
-  Studio:
-    optional:
-      - company
-      - list
-    tmdb_company: <<company>>
-    tmdb_list: <<list>>
-    sync_mode: sync
-    collection_order: release
-    sort_title: <<collection_name>>
 collections:
   Tim Burton Productions:
-    template: {name: Studio, company: 8601}
+    smart_filter:
+      all:
+        studio.is: Tim Burton Productions
   Walt Disney Productions:
-    template: {name: Studio, company: "3166"}
+    smart_filter:
+      all:
+        studio: Disney
   Pixar:
-    template: {name: Studio, company: "3"}
-  Disney-Pixar:
-    template: {name: Studio, company: "3166,3"}
+    smart_filter:
+      all:
+        studio: Pixar
