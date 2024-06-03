@@ -10,7 +10,7 @@ collections:
           - The Dark Knight Collection
           - Man of Steel Collection
     summary: Collection of all DC Comics, movie adaptations.
-    tmdb_movie: 495764, 436270, 565770, 314, 298618
+    tmdb_movie: 495764, 436270, 565770, 314, 298618, 44912
     url_poster: https://theposterdb.com/api/assets/113156
   DC Extended Universe:
     plex_search:
@@ -48,6 +48,7 @@ collections:
           - Captain America Collection
           - Captain Marvel Collection
           - Doctor Strange Collection
+          - Guardians of the Galaxy Collection
     summary: >-
         The Marvel Cinematic Universe (MCU) is an American media franchise and shared universe 
         centered on a series of superhero films produced by Marvel Studios. The films are based 
@@ -73,6 +74,7 @@ collections:
           - Deadpool Collection
           - Doctor Strange Collection
           - Fantastic Four Collection
+          - Guardians of the Galaxy Collection
     summary: Collection of all Marvel comics, movie adaptations.
     tmdb_movie: 497698, 9480, 533535, 524434
     url_poster: https://theposterdb.com/api/assets/99697
@@ -138,4 +140,31 @@ collections:
       Few Dollars More (1965) and The Good, the Bad and the Ugly (1966). The series has become known 
       for establishing the Spaghetti Western genre, and inspiring the creation of many more Spaghetti 
       Western films. The three films are consistently listed among the best-rated Western films in history.
-
+  MonsterVerse Collection:
+    plex_search:
+      any:
+        collection:
+          - Godzilla Collection
+          - Kong Collection
+    url_poster: https://theposterdb.com/api/assets/8258
+    summary: >-
+      The MonsterVerse is an American multimedia franchise and shared universe featuring Godzilla and other 
+      sister characters owned and created by Toho Co., Ltd, as well as King Kong. The franchise consists 
+      of five films and two television series that have been produced by Legendary Pictures, with Warner Bros. 
+      Pictures distributing the films and the series being released for streaming on Netflix and Apple TV+.
+  The Complete Godzilla Collection:
+    plex_search:
+      any:
+        collection:
+          - Godzilla Collection
+    tmdb_movie: 929, 940721
+    url_poster: https://theposterdb.com/api/assets/125823
+    summary: The complete list of all Godzilla movies both, movies that are part of MonsterVerse and Standalone movies
+  The Complete King kong Collection:
+    plex_search:
+      any:
+        collection:
+          - Kong Collection
+    tmdb_movie: 254
+    url_poster: https://theposterdb.com/api/assets/92519
+    summary: The complete list of all King King movies both, movies that are part of MonsterVerse and Standalone movies

@@ -300,3 +300,37 @@ collections:
     url_poster: https://theposterdb.com/api/assets/195411
   Extraction Collection:
     template: {name: Collection, collection: 735127}
+  Friday Collection:
+    template: {name: Collection, collection: 43563}
+  G.I. Joe (Live-Action) Collection:
+    template: {name: Collection, collection: 135468}
+  Ghost Rider Collection:
+    template: {name: Collection, collection: 90306}
+  Ghostbusters Collection:
+    template: {name: Collection, collection: 2980}
+    tmdb_movie: 43074
+  The Girl - Millennium Collection:
+    template: {name: Collection, collection: 575987}
+  The Millennium Collection:
+    template: {name: Collection, collection: 24761}
+  Gladiator Collection:
+    template: {name: Collection, collection: 1069584}
+  The Godfather Collection:
+    template: {name: Collection, collection: 230}
+  The Gods Must Be Crazy Collection:
+    template: {name: Collection, collection: 87805}
+  Godzilla Collection:
+    template: {name: Collection, collection: 535313}
+  Kong Collection:
+    template: {name: Collection, collection: 1280074}
+    tmdb_movie: 399566
+  The Gray Man Collection:
+    template: {name: Collection, collection: 1005134}
+  Greenland Collection:
+    template: {name: Collection, collection: 840465}
+  The Gremlins Collection:
+    template: {name: Collection, collection: 89151}
+  Grumpy Old Men Collection:
+    template: {name: Collection, collection: 119050}
+  Guardians of the Galaxy Collection:
+    template: {name: Collection, collection: 284433}
