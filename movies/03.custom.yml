@@ -9,8 +9,12 @@ collections:
           - The Batman Collection
           - The Dark Knight Collection
           - Man of Steel Collection
+          - Shazam! Collection
+          - Suicide Squad Collection
+          - Superman Collection
+          - Wonder Woman Collection
     summary: Collection of all DC Comics, movie adaptations.
-    tmdb_movie: 495764, 436270, 565770, 314, 298618, 44912, 141052
+    tmdb_movie: 495764, 436270, 565770, 314, 298618, 44912, 141052, 9651
     url_poster: https://theposterdb.com/api/assets/113156
   DC Extended Universe:
     plex_search:
@@ -18,6 +22,9 @@ collections:
         collection:
           - Aquaman Collection
           - Man of Steel Collection
+          - Shazam! Collection
+          - Suicide Squad Collection
+          - Wonder Woman Collection
     summary: >-
       The DC Extended Universe (DCEU) is an American media franchise and shared universe centered 
       on a series of superhero films produced by DC Studios and distributed by Warner Bros. Pictures. 
@@ -34,8 +41,10 @@ collections:
           - 101 Dalmatians (Live-Action) Collection
           - Alice in Wonderland Collection
           - Cruella Collection
+          - The Lion King (Live-Action) Collection
+          - Maleficent Collection
     summary: Collection of Live-Action remakes of Disney animated classics
-    tmdb_movie: 420817, 321612, 150689, 329996, 278927, 10714
+    tmdb_movie: 420817, 321612, 150689, 329996, 278927, 10714, 512895, 447277, 337401, 294272, 11114
     url_poster: https://theposterdb.com/api/assets/86910
   Marvel Cinematic Universe:
     plex_search:
@@ -50,6 +59,8 @@ collections:
           - Doctor Strange Collection
           - Guardians of the Galaxy Collection
           - Iron Man Collection
+          - Shang-Chi Collection
+          - Thor Collection
     summary: >-
         The Marvel Cinematic Universe (MCU) is an American media franchise and shared universe 
         centered on a series of superhero films produced by Marvel Studios. The films are based 
@@ -77,8 +88,13 @@ collections:
           - Fantastic Four Collection
           - Guardians of the Galaxy Collection
           - Iron Man Collection
+          - The Wolverine Collection
+          - Shang-Chi Collection
+          - Thor Collection
+          - Venom Collection
+          - X-Men Collection
     summary: Collection of all Marvel comics, movie adaptations.
-    tmdb_movie: 497698, 9480, 533535, 524434, 1927, 1724
+    tmdb_movie: 497698, 9480, 533535, 524434, 1927, 1724, 340102, 634492, 526896
     url_poster: https://theposterdb.com/api/assets/99697
   The Cloverfield Collection:
     summary: >-
@@ -162,7 +178,7 @@ collections:
     tmdb_movie: 929, 940721
     url_poster: https://theposterdb.com/api/assets/125532
     summary: The complete list of all Godzilla movies both, movies that are part of MonsterVerse and Standalone movies
-  The King kong (Complete) Collection:
+  The King Kong (Complete) Collection:
     plex_search:
       any:
         collection:
@@ -170,7 +186,7 @@ collections:
     tmdb_movie: 254
     url_poster: https://theposterdb.com/api/assets/43364
     summary: The complete list of all King King movies both, movies that are part of MonsterVerse and Standalone movies
-  Three Flavours Cornetto:
+  Three Flavours Cornetto Collection:
     tmdb_movie: 4638, 747, 107985
     url_poster: https://theposterdb.com/api/assets/60578
     summary: >-
@@ -179,3 +195,60 @@ collections:
       by Wright and Simon Pegg, and produced by Nira Park. The series stars Pegg and Nick Frost, with several 
       other actors, including Bill Nighy, Rafe Spall and Martin Freeman, also appearing in all three films. The 
       trilogy consists of Shaun of the Dead (2004), Hot Fuzz (2007), and The World's End (2013).
+  The X-Men (Complete) Collection:
+    plex_search:
+      any:
+        collection:
+          - Deadpool Collection
+          - The Wolverine Collection
+          - X-Men Collection
+    tmdb_movies: 340102
+    url_poster: https://theposterdb.com/api/assets/32304
+    summary: >-
+      X-Men is an American superhero film series based on the Marvel Comics superhero team of the same name. 
+  Sony's Spider-Man Universe Collection:
+    plex_search:
+      any:
+        collection:
+          - Venom Collection
+    tmdb_movies: 634492, 526896
+    url_poster: https://theposterdb.com/api/assets/471250
+    summary: >-
+      Sony's Spider-Man Universe (SSU) is an American media franchise and shared universe centered on a 
+      series of superhero films produced by Columbia Pictures in association with Marvel Entertainment. 
+      Distributed by Sony Pictures Releasing, the films are based on various Marvel Comics characters 
+      and properties commonly associated with Spider-Man.
+  The Pink Panther (Complete) Collection:
+    plex_search:
+      any:
+        collection:
+          - The Pink Panther (Original) Collection
+          - The Pink Panther (Steve Martin) Collection
+    url_poster: https://theposterdb.com/api/assets/60458
+    summary: >-
+      Complete collection of all Pink Panther movies.
+  A Star Wars Story Collection:
+    tmdb_movie: 330459, 348350
+    url_poster: https://theposterdb.com/api/assets/351069
+    summary: Collection of star wars movies independent of the orginal series, but ties into the overall narative.
+  Star Wars (Complete) Collection:
+    plex_search:
+      any:
+        collection:
+          - Star Wars Collection
+          - A Star Wars Story Collection
+    url_poster: https://theposterdb.com/api/assets/102957
+  Star Trek (Complete) Collection:
+    plex_search:
+      any:
+        collection:
+          - Star Trek (Original) Collection
+          - Star Trek (Next Generation) Collection
+          - Star Trek (Alternate Reality) Collection
+    url_poster: https://theposterdb.com/api/assets/30113
+  Teenage Mutant Ninja Turtles (Complete) Collection:
+    plex_search:
+      any:
+        collection:
+          - Teenage Mutant Ninja Turtles Collection
+          - Teenage Mutant Ninja Turtles (Remake) Collection

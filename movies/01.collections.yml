@@ -282,6 +282,7 @@ collections:
     template: {name: Collection, collection: 344830}
   The Omen Collection:
     template: {name: Collection, collection: 10919}
+    tmdb_movie: 806
   Rambo Collection:
     template: {name: Collection, collection: 5039}
     url_poster: https://theposterdb.com/api/assets/47570
@@ -304,6 +305,7 @@ collections:
     template: {name: Collection, collection: 43563}
   G.I. Joe (Live-Action) Collection:
     template: {name: Collection, collection: 135468}
+    tmdb_movie: 568620
   Ghost Rider Collection:
     template: {name: Collection, collection: 90306}
   Ghostbusters Collection:
@@ -319,9 +321,9 @@ collections:
     template: {name: Collection, collection: 230}
   The Gods Must Be Crazy Collection:
     template: {name: Collection, collection: 87805}
-  Godzilla Collection:
+  Godzilla (MonsterVerse) Collection:
     template: {name: Collection, collection: 535313}
-  Kong Collection:
+  Kong (MonsterVerse) Collection:
     template: {name: Collection, collection: 1280074}
     tmdb_movie: 399566
   The Gray Man Collection:
@@ -361,7 +363,7 @@ collections:
     template: {name: Collection, collection: 84}
   Ip Man Collection:
     template: {name: Collection, collection: 70068}
-    tmdb_movie: 182127
+    tmdb_movie: 182127, 44249
   Iron Man Collection:
     template: {name: Collection, collection: 131292}
   Jack Reacher Collection:
@@ -382,3 +384,189 @@ collections:
     template: {name: Collection, collection: 605516}
   Jumanji Collection:
     template: {name: Collection, collection: 495527}
+  Shanghai Noon Collection:
+    template: {name: Collection, collection: 59567}
+  Rush Hour Collection:
+    template: {name: Collection, collection: 90863}
+  The Karate Kid Collection:
+    template: {name: Collection, collection: 8580}
+    tmdb_movie: 38575
+  K-9 Collection:
+    template: {name: Collection, collection: 88735}
+  Kick-Ass Collection:
+    template: {name: Collection, collection: 179892}
+  Kill Bill Collection:
+    template: {name: Collection, collection: 2883}
+  Kingsman Collection:
+    template: {name: Collection, collection: 391860}
+  The Kissing Booth Collection:
+    template: {name: Collection, collection: 726619}
+  Knives Out Collection:
+    template: {name: Collection, collection: 722971}
+  Tomb Raider Collection:
+    template: {name: Collection, collection: 2467}
+    tmdb_movie: 338970
+  Zorro Collection:
+    template: {name: Collection, collection: 1657}
+  Lethal Weapon Collection:
+    template: {name: Collection, collection: 945}
+  The Lion King (Live-Action) Collection:
+    template: {name: Collection, collection: 762512}
+  The Wolverine Collection:
+    template: {name: Collection, collection: 453993}
+  Mad Max Collection:
+    template: {name: Collection, collection: 8945}
+  Maleficent Collection:
+    template: {name: Collection, collection: 531331}
+  Mamma Mia! Collection:
+    template: {name: Collection, collection: 458558}
+  The Man from Earth Collection:
+    template: {name: Collection, collection: 464270}
+  Mary Poppins Collection:
+    template: {name: Collection, collection: 527439}
+  The Matrix Collection:
+    template: {name: Collection, collection: 2344}
+  The Maze Runner Collection:
+    template: {name: Collection, collection: 295130}
+  The Meg Collection:
+    template: {name: Collection, collection: 742536}
+  Men In Black Collection:
+    template: {name: Collection, collection: 86055}
+    tmdb_movie: 479455
+  Mission Impossible Collection:
+    template: {name: Collection, collection: 87359}
+  The Mummy Collection:
+    template: {name: Collection, collection: 1733}
+    tmbd_movie: 282035
+  Murder Mystery Collection:
+    template: {name: Collection, collection: 929336}
+  My Big Fat Greek Wedding Collection:
+    template: {name: Collection, collection: 389767}
+  Naked Gun Collection:
+    template: {name: Collection, collection: 37139}
+  The Neverending Story Collection:
+    template: {name: Collection, collection: 91430}
+  Now You See Me Collection:
+    template: {name: Collection, collection: 382685}
+  Nymphomaniac Collection:
+    template: {name: Collection, collection: 258664}
+  Ocean's Collection:
+    template: {name: Collection, collection: 304}
+    tmdb_movie: 299, 402900
+  The Old Guard Collection:
+    template: {name: Collection, collection: 847029}
+  Mexico Collection:
+    template: {name: Collection, collection: 9649}
+  Pacific Rim Collection:
+    template: {name: Collection, collection: 363369}
+  Percy Jackson Collection:
+    template: {name: Collection, collection: 179919}
+  The Pink Panther (Original) Collection:
+    template: {name: Collection, collection: 937}
+  The Pink Panther (Steve Martin) Collection:
+    template: {name: Collection, collection: 130440}
+  Pirates of the Caribbean Collection:
+    template: {name: Collection, collection: 295}
+  Pitch Perfect Collection:
+    template: {name: Collection, collection: 306031}
+  Plane Collection:
+    template: {name: Collection, collection: 1099094}
+  Porky's Collection:
+    template: {name: Collection, collection: 109592}
+  The Princess Diaries Collection:
+    template: {name: Collection, collection: 107674}
+  The Princess Switch Collection:
+    template: {name: Collection, collection: 713330}
+  Problem Child Collection:
+    template: {name: Collection, collection: 180854}
+  RED Collection:
+    template: {name: Collection, collection: 163902}
+  Resident Evil Collection:
+    template: {name: Collection, collection: 17255}
+  RoboCop Collection:
+    template: {name: Collection, collection: 5547}
+    tmdb_movie: 97020
+  Rocky Collection:
+    template: {name: Collection, collection: 5547}
+  Scream Collection:
+    template: {name: Collection, collection: 2602}
+  Shang-Chi Collection:
+    template: {name: Collection, collection: 912503}
+  Shazam! Collection:
+    template: {name: Collection, collection: 724848}
+  Sherlock Holmes Collection:
+    template: {name: Collection, collection: 102322}
+  Sicario Collection:
+    template: {name: Collection, collection: 496796}
+  Sister Act Collection:
+    template: {name: Collection, collection: 103573}
+  The Sisterhood of the Traveling Pants Collection:
+    template: {name: Collection, collection: 17368}
+  Sonic the Hedgehog Collection:
+    template: {name: Collection, collection: 720879}
+  Space Jam Collection:
+    template: {name: Collection, collection: 722961}
+  Spanish Affair Collection:
+    template: {name: Collection, collection: 388180}
+  Star Trek (Original) Collection:
+    template: {name: Collection, collection: 151}
+  Star Trek (Next Generation) Collection:
+    template: {name: Collection, collection: 115570}
+  Star Trek (Alternate Reality) Collection:
+    template: {name: Collection, collection: 115575}
+  Star Wars Collection:
+    template: {name: Collection, collection: 10}
+  Stuart Little Collection:
+    template: {name: Collection, collection: 99727}
+  Suicide Squad Collection:
+    template: {name: Collection, collection: 531242}
+  Superman Collection:
+    template: {name: Collection, collection: 8537}
+  Taken Collection:
+    template: {name: Collection, collection: 135483}
+  Teenage Mutant Ninja Turtles Collection:
+    template: {name: Collection, collection: 1582}
+  Teenage Mutant Ninja Turtles (Remake) Collection:
+    template: {name: Collection, collection: 401562}
+  The Terminator Collection:
+    template: {name: Collection, collection: 528}
+  Thor Collection:
+    template: {name: Collection, collection: 131296}
+  3 Men Collection:
+    template: {name: Collection, collection: 107688}
+  The Three Musketeers Collection:
+    template: {name: Collection, collection: 913258}
+  To All the Boys Collection:
+    template: {name: Collection, collection: 569738}
+  Top Gun Collection:
+    template: {name: Collection, collection: 531330}
+  The Transporter Collection:
+    template: {name: Collection, collection: 9518}
+  TRON Collection:
+    template: {name: Collection, collection: 63043}
+  The Twilight Collection:
+    template: {name: Collection, collection: 33514}
+  Underworld Collection:
+    template: {name: Collection, collection: 2326}
+  Vacation Friends Collection:
+    template: {name: Collection, collection: 1156429}
+  Venom Collection:
+    template: {name: Collection, collection: 558216}
+  Wayne's World Collection:
+    template: {name: Collection, collection: 8979}
+  The Whole Nine/Ten Yards Collection:
+    template: {name: Collection, collection: 103577}
+  Wind River Collection:
+    template: {name: Collection, collection: 1046516}
+  Wonder Woman Collection:
+    template: {name: Collection, collection: 468552}
+  The X Files Collection:
+    template: {name: Collection, collection: 19387}
+  X-Men Collection:
+    template: {name: Collection, collection: 748}
+  xXx Collection:
+    template: {name: Collection, collection: 52785}
+  Zombieland Collection:
+    template: {name: Collection, collection: 537982}
+  Zoolander Collection:
+    template: {name: Collection, collection: 352789}
