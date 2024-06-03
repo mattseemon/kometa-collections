@@ -162,8 +162,8 @@ collections:
     plex_search:
       any:
         collection:
-          - Godzilla Collection
-          - Kong Collection
+          - Godzilla (MonsterVerse) Collection
+          - Kong (MonsterVerse) Collection
     url_poster: https://theposterdb.com/api/assets/8258
     summary: >-
       The MonsterVerse is an American multimedia franchise and shared universe featuring Godzilla and other 
@@ -211,7 +211,7 @@ collections:
       any:
         collection:
           - Venom Collection
-    tmdb_movies: 634492, 526896
+    tmdb_movie: 634492, 526896
     url_poster: https://theposterdb.com/api/assets/471250
     summary: >-
       Sony's Spider-Man Universe (SSU) is an American media franchise and shared universe centered on a 
@@ -252,3 +252,4 @@ collections:
         collection:
           - Teenage Mutant Ninja Turtles Collection
           - Teenage Mutant Ninja Turtles (Remake) Collection
+    url_poster: https://theposterdb.com/api/assets/60487
