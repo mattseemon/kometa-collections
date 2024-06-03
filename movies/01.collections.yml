@@ -334,3 +334,51 @@ collections:
     template: {name: Collection, collection: 119050}
   Guardians of the Galaxy Collection:
     template: {name: Collection, collection: 284433}
+  The Hangover Collection:
+    template: {name: Collection, collection: 86119}
+  The Hannibal Lecter Collection:
+    template: {name: Collection, collection: 9743}
+    tmdb_movie: 1248
+  Heat Collection:
+    template: {name: Collection, collection: 1048282}
+  Hellboy Collection:
+    template: {name: Collection, collection: 17235}
+  The Hitman's Bodyguard Collection:
+    template: {name: Collection, collection: 608101}
+  Hot Shots! Collection:
+    template: {name: Collection, collection: 52988}
+  Hot Tub Time Machine Collection:
+    template: {name: Collection, collection: 313576}
+  The Hunger Games Collection:
+    template: {name: Collection, collection: 131635}
+  The Huntsman Collection:
+    template: {name: Collection, collection: 393379}
+  I Know What You Did Last Summer Collection:
+    template: {name: Collection, collection: 3601}
+  Independence Day Collection:
+    template: {name: Collection, collection: 304378}
+  Indiana Jones Collection:
+    template: {name: Collection, collection: 84}
+  Ip Man Collection:
+    template: {name: Collection, collection: 70068}
+    tmdb_movie: 182127
+  Iron Man Collection:
+    template: {name: Collection, collection: 131292}
+  Jack Reacher Collection:
+    template: {name: Collection, collection: 403374}
+  Jaws Collection:
+    template: {name: Collection, collection: 2366}
+  Jeepers Creepers Collection:
+    template: {name: Collection, collection: 94899}
+  Romancing the Stone Collection:
+    template: {name: Collection, collection: 89264}
+  John Wick Collection:
+    template: {name: Collection, collection: 404609}
+  Johnny English Collection:
+    template: {name: Collection, collection: 86117}
+  Joker Collection:
+    template: {name: Collection, collection: 987044}
+  Journey Collection:
+    template: {name: Collection, collection: 605516}
+  Jumanji Collection:
+    template: {name: Collection, collection: 495527}

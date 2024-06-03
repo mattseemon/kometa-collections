@@ -10,7 +10,7 @@ collections:
           - The Dark Knight Collection
           - Man of Steel Collection
     summary: Collection of all DC Comics, movie adaptations.
-    tmdb_movie: 495764, 436270, 565770, 314, 298618, 44912
+    tmdb_movie: 495764, 436270, 565770, 314, 298618, 44912, 141052
     url_poster: https://theposterdb.com/api/assets/113156
   DC Extended Universe:
     plex_search:
@@ -25,7 +25,7 @@ collections:
       also includes comic books, short films, novels, and video games. Like the original DC Universe 
       in comic books, the DCEU is established by crossing over common plot elements, settings, cast, 
       and characters.
-    tmdb_movie: 495764, 436270, 565770, 298618
+    tmdb_movie: 495764, 436270, 565770, 298618, 141052
     url_poster: https://theposterdb.com/api/assets/13713
   Disney Live-Action Collection:
     plex_search:
@@ -35,7 +35,7 @@ collections:
           - Alice in Wonderland Collection
           - Cruella Collection
     summary: Collection of Live-Action remakes of Disney animated classics
-    tmdb_movie: 420817, 321612, 150689, 329996
+    tmdb_movie: 420817, 321612, 150689, 329996, 278927, 10714
     url_poster: https://theposterdb.com/api/assets/86910
   Marvel Cinematic Universe:
     plex_search:
@@ -49,6 +49,7 @@ collections:
           - Captain Marvel Collection
           - Doctor Strange Collection
           - Guardians of the Galaxy Collection
+          - Iron Man Collection
     summary: >-
         The Marvel Cinematic Universe (MCU) is an American media franchise and shared universe 
         centered on a series of superhero films produced by Marvel Studios. The films are based 
@@ -56,7 +57,7 @@ collections:
         franchise also includes television series, short films, digital series, and literature. 
         The shared universe, much like the original Marvel Universe in comic books, was 
         established by crossing over common plot elements, settings, cast, and characters.
-    tmdb_movie: 497698, 533535, 524434
+    tmdb_movie: 497698, 533535, 524434, 1724
     url_poster: https://theposterdb.com/api/assets/18648
   Marvel Comics Collection:
     plex_search:
@@ -75,8 +76,9 @@ collections:
           - Doctor Strange Collection
           - Fantastic Four Collection
           - Guardians of the Galaxy Collection
+          - Iron Man Collection
     summary: Collection of all Marvel comics, movie adaptations.
-    tmdb_movie: 497698, 9480, 533535, 524434
+    tmdb_movie: 497698, 9480, 533535, 524434, 1927, 1724
     url_poster: https://theposterdb.com/api/assets/99697
   The Cloverfield Collection:
     summary: >-
@@ -152,19 +154,28 @@ collections:
       sister characters owned and created by Toho Co., Ltd, as well as King Kong. The franchise consists 
       of five films and two television series that have been produced by Legendary Pictures, with Warner Bros. 
       Pictures distributing the films and the series being released for streaming on Netflix and Apple TV+.
-  The Complete Godzilla Collection:
+  The Godzilla (Complete) Collection:
     plex_search:
       any:
         collection:
           - Godzilla Collection
     tmdb_movie: 929, 940721
-    url_poster: https://theposterdb.com/api/assets/125823
+    url_poster: https://theposterdb.com/api/assets/125532
     summary: The complete list of all Godzilla movies both, movies that are part of MonsterVerse and Standalone movies
-  The Complete King kong Collection:
+  The King kong (Complete) Collection:
     plex_search:
       any:
         collection:
           - Kong Collection
     tmdb_movie: 254
-    url_poster: https://theposterdb.com/api/assets/92519
+    url_poster: https://theposterdb.com/api/assets/43364
     summary: The complete list of all King King movies both, movies that are part of MonsterVerse and Standalone movies
+  Three Flavours Cornetto:
+    tmdb_movie: 4638, 747, 107985
+    url_poster: https://theposterdb.com/api/assets/60578
+    summary: >-
+      The Three Flavours Cornetto trilogy (also sometimes referred to as the Cornetto trilogy or the Blood and 
+      Ice Cream trilogy) is an anthology series of British comedic genre films directed by Edgar Wright, written 
+      by Wright and Simon Pegg, and produced by Nira Park. The series stars Pegg and Nick Frost, with several 
+      other actors, including Bill Nighy, Rafe Spall and Martin Freeman, also appearing in all three films. The 
+      trilogy consists of Shaun of the Dead (2004), Hot Fuzz (2007), and The World's End (2013).
