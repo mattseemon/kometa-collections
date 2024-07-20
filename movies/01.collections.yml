@@ -570,3 +570,5 @@ collections:
     template: {name: Collection, collection: 537982}
   Zoolander Collection:
     template: {name: Collection, collection: 352789}
+  My Spy Collection Collection:
+    template: {name: Collection, collection: 1090373}
