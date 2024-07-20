@@ -324,8 +324,8 @@ collections:
   Godzilla (MonsterVerse) Collection:
     template: {name: Collection, collection: 535313}
   Kong (MonsterVerse) Collection:
-    template: {name: Collection, collection: 1280074}
-    tmdb_movie: 399566
+    tmdb_movie: 293167,399566,823464
+    url_poster: https://theposterdb.com/api/assets/497686
   The Gray Man Collection:
     template: {name: Collection, collection: 1005134}
   Greenland Collection:
@@ -572,3 +572,5 @@ collections:
     template: {name: Collection, collection: 352789}
   My Spy Collection Collection:
     template: {name: Collection, collection: 1090373}
+  Twister Collection:
+    template: {name: Collection, collection: 1062948}
