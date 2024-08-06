@@ -105,7 +105,7 @@ collections:
     template: {name: Collection, collection: 623911}
     url_poster: https://theposterdb.com/api/assets/431967
   Cities of Love Collection:
-    template: {name: Collection, collection: 626668}
+    tmdb_movie: 2266, 12572, 211166, 401686
     url_poster: https://theposterdb.com/api/assets/340590
   Coming to America Collection:
     template: {name: Collection, collection: 647077}
