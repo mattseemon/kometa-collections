@@ -574,3 +574,5 @@ collections:
     template: {name: Collection, collection: 1090373}
   Twister Collection:
     template: {name: Collection, collection: 1062948}
+  Rebel Moon Collection:
+    template: {name: Collection, collection: 934765}
