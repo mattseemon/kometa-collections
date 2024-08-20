@@ -67,3 +67,5 @@ collections:
     template: {name: Collection, collection: 10194}
   Zootopia Collection:
     template: {name: Collection, collection: 1084247}
+  Inside Out Collection:
+    template: {name: Collection, collection: 1022790}
