@@ -576,3 +576,5 @@ collections:
     template: {name: Collection, collection: 1062948}
   Rebel Moon Collection:
     template: {name: Collection, collection: 934765}
+  Clash of the Titans Collection:
+    template: {name: Collection, collection: 86780}
