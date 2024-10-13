@@ -578,3 +578,5 @@ collections:
     template: {name: Collection, collection: 934765}
   Clash of the Titans Collection:
     template: {name: Collection, collection: 86780}
+  Beetlejuice Collection:
+    template: {name: Collection, collection: 945475}
