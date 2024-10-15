@@ -580,3 +580,5 @@ collections:
     template: {name: Collection, collection: 86780}
   Beetlejuice Collection:
     template: {name: Collection, collection: 945475}
+  The Librarian Collection:
+    template: {name: Collection, collection: 85890}
