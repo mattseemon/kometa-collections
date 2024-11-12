@@ -1,5 +1,9 @@
 ---
 collections:
+  Justice League Collection:
+    summary: Collection of all Justice League movie adaptations that are part of the DCEU.
+    tmdb_movie: 141052, 791373
+    url_poster: https://theposterdb.com/api/assets/324745
   DC Comics Collection:
     plex_search:
       any:
@@ -13,8 +17,9 @@ collections:
           - Suicide Squad Collection
           - Superman Collection
           - Wonder Woman Collection
+          - Justice League Collection
     summary: Collection of all DC Comics, movie adaptations.
-    tmdb_movie: 495764, 436270, 565770, 314, 298618, 44912, 141052, 9651
+    tmdb_movie: 495764, 436270, 565770, 314, 298618, 44912, 9651
     url_poster: https://theposterdb.com/api/assets/113156
   DC Extended Universe:
     plex_search:
@@ -25,6 +30,7 @@ collections:
           - Shazam! Collection
           - Suicide Squad Collection
           - Wonder Woman Collection
+          - Justice League Collection
     summary: >-
       The DC Extended Universe (DCEU) is an American media franchise and shared universe centered 
       on a series of superhero films produced by DC Studios and distributed by Warner Bros. Pictures. 
@@ -32,7 +38,7 @@ collections:
       also includes comic books, short films, novels, and video games. Like the original DC Universe 
       in comic books, the DCEU is established by crossing over common plot elements, settings, cast, 
       and characters.
-    tmdb_movie: 495764, 436270, 565770, 298618, 141052
+    tmdb_movie: 495764, 436270, 565770, 298618
     url_poster: https://theposterdb.com/api/assets/13713
   Disney Live-Action Collection:
     plex_search:
