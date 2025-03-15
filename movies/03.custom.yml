@@ -52,6 +52,18 @@ collections:
     summary: Collection of Live-Action remakes of Disney animated classics
     tmdb_movie: 420817, 321612, 150689, 329996, 278927, 10714, 512895, 447277, 337401, 294272, 11114
     url_poster: https://theposterdb.com/api/assets/86910
+  Sony's Spider-Man Universe Collection:
+    plex_search:
+      any:
+        collection:
+          - Venom Collection
+    tmdb_movie: 634492, 526896, 539972
+    url_poster: https://theposterdb.com/api/assets/471250
+    summary: >-
+      Sony's Spider-Man Universe (SSU) is an American media franchise and shared universe centered on a 
+      series of superhero films produced by Columbia Pictures in association with Marvel Entertainment. 
+      Distributed by Sony Pictures Releasing, the films are based on various Marvel Comics characters 
+      and properties commonly associated with Spider-Man.
   Marvel Cinematic Universe:
     plex_search:
       any:
@@ -96,11 +108,12 @@ collections:
           - Iron Man Collection
           - The Wolverine Collection
           - Shang-Chi Collection
+          - Sony's Spider-Man Universe Collection
           - Thor Collection
           - Venom Collection
           - X-Men Collection
     summary: Collection of all Marvel comics, movie adaptations.
-    tmdb_movie: 497698, 9480, 533535, 524434, 1927, 1724, 340102, 634492, 526896
+    tmdb_movie: 497698, 9480, 533535, 524434, 1927, 1724, 340102
     url_poster: https://theposterdb.com/api/assets/99697
   The Cloverfield Collection:
     summary: >-
@@ -212,18 +225,6 @@ collections:
     url_poster: https://theposterdb.com/api/assets/32304
     summary: >-
       X-Men is an American superhero film series based on the Marvel Comics superhero team of the same name. 
-  Sony's Spider-Man Universe Collection:
-    plex_search:
-      any:
-        collection:
-          - Venom Collection
-    tmdb_movie: 634492, 526896
-    url_poster: https://theposterdb.com/api/assets/471250
-    summary: >-
-      Sony's Spider-Man Universe (SSU) is an American media franchise and shared universe centered on a 
-      series of superhero films produced by Columbia Pictures in association with Marvel Entertainment. 
-      Distributed by Sony Pictures Releasing, the films are based on various Marvel Comics characters 
-      and properties commonly associated with Spider-Man.
   The Pink Panther (Complete) Collection:
     plex_search:
       any:
