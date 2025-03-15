@@ -49,6 +49,8 @@ collections:
     template: {name: Collection, collection: 137696}
   Minions Collection:
     template: {name: Collection, collection: 544669}
+  Moana Collection:
+    template: {name: Collection, collection: 1241984}
   Mulan Collection:
     template: {name: Collection, collection: 87236}
   Open Season Collection:
