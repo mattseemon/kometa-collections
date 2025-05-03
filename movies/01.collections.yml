@@ -582,3 +582,5 @@ collections:
     template: {name: Collection, collection: 945475}
   The Librarian Collection:
     template: {name: Collection, collection: 85890}
+  A Simple Favor Collection:
+    template: {name: Collection, collection: 975201}
