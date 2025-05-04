@@ -584,3 +584,5 @@ collections:
     template: {name: Collection, collection: 85890}
   A Simple Favor Collection:
     template: {name: Collection, collection: 975201}
+  Happy Death Day Collection:
+    template: {name: Collection, collection: 526380}
