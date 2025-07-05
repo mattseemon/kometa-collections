@@ -196,6 +196,8 @@ collections:
   The Avengers Collection:
     template: {name: Collection, collection: 86311}
     url_poster: https://theposterdb.com/api/assets/47810
+  The Ballerina Collection:
+    template: {name: Collection, collection: 1494663}
   The Batman Collection:
     template: {name: Collection, collection: 948485}
     url_poster: https://theposterdb.com/api/assets/460791
