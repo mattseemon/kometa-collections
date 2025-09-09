@@ -77,7 +77,6 @@ collections:
           - Doctor Strange Collection
           - Guardians of the Galaxy Collection
           - Iron Man Collection
-          - Shang-Chi Collection
           - Thor Collection
     summary: >-
         The Marvel Cinematic Universe (MCU) is an American media franchise and shared universe 
@@ -86,7 +85,7 @@ collections:
         franchise also includes television series, short films, digital series, and literature. 
         The shared universe, much like the original Marvel Universe in comic books, was 
         established by crossing over common plot elements, settings, cast, and characters.
-    tmdb_movie: 497698, 533535, 524434, 1724, 986056
+    tmdb_movie: 497698, 533535, 524434, 1724, 986056, 566525
     url_poster: https://theposterdb.com/api/assets/18648
   Marvel Comics Collection:
     plex_search:
@@ -107,13 +106,12 @@ collections:
           - Guardians of the Galaxy Collection
           - Iron Man Collection
           - The Wolverine Collection
-          - Shang-Chi Collection
           - Sony's Spider-Man Universe Collection
           - Thor Collection
           - Venom Collection
           - X-Men Collection
     summary: Collection of all Marvel comics, movie adaptations.
-    tmdb_movie: 497698, 9480, 533535, 524434, 1927, 1724, 340102, 986056
+    tmdb_movie: 497698, 9480, 533535, 524434, 1927, 1724, 340102, 986056, 566525
     url_poster: https://theposterdb.com/api/assets/99697
   The Cloverfield Collection:
     summary: >-
@@ -148,12 +146,11 @@ collections:
       any:
         collection:
           - Transformers Collection
-          - Transformers - Rise of the Beasts Collection
     summary: >-
       The Transformers series follows the continuing battle between the Autobots and the Decepticons 
       and ultimately, the triumph of good over evil. This collection includes films of the 
       Transformers saga, Rise of the beasts saga and any standalone transformers movies. 
-    tmdb_movie: 424783
+    tmdb_movie: 424783, 667538
     url_poster: https://theposterdb.com/api/assets/14175
   Wizarding World Collection:
     plex_search:
