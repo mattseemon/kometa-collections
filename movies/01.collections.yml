@@ -588,3 +588,5 @@ collections:
     template: {name: Collection, collection: 975201}
   Happy Death Day Collection:
     template: {name: Collection, collection: 526380}
+  Nobody Collection:
+    template: {name: Collection, collection: 1129084}
