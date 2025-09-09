@@ -466,8 +466,6 @@ collections:
     template: {name: Collection, collection: 306031}
   Plane Collection:
     template: {name: Collection, collection: 1099094}
-  Porky's Collection:
-    template: {name: Collection, collection: 109592}
   The Princess Diaries Collection:
     template: {name: Collection, collection: 107674}
   The Princess Switch Collection:
