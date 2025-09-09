@@ -196,8 +196,6 @@ collections:
   The Avengers Collection:
     template: {name: Collection, collection: 86311}
     url_poster: https://theposterdb.com/api/assets/47810
-  The Ballerina Collection:
-    template: {name: Collection, collection: 1494663}
   The Batman Collection:
     template: {name: Collection, collection: 948485}
     url_poster: https://theposterdb.com/api/assets/460791
@@ -243,9 +241,6 @@ collections:
   The Robert Langdon Collection:
     template: {name: Collection, collection: 115776}
     url_poster: https://theposterdb.com/api/assets/94379
-  Transformers - Rise of the Beasts Collection:
-    template: {name: Collection, collection: 939352}
-    url_poster: https://theposterdb.com/api/assets/399002
   Transformers Collection:
     template: {name: Collection, collection: 8650}
     url_poster: https://theposterdb.com/api/assets/84244
@@ -328,8 +323,6 @@ collections:
   Kong (MonsterVerse) Collection:
     tmdb_movie: 293167,399566,823464
     url_poster: https://theposterdb.com/api/assets/497686
-  The Gray Man Collection:
-    template: {name: Collection, collection: 1005134}
   Greenland Collection:
     template: {name: Collection, collection: 840465}
   The Gremlins Collection:
@@ -492,8 +485,6 @@ collections:
     template: {name: Collection, collection: 1575}
   Scream Collection:
     template: {name: Collection, collection: 2602}
-  Shang-Chi Collection:
-    template: {name: Collection, collection: 912503}
   Shazam! Collection:
     template: {name: Collection, collection: 724848}
   Sherlock Holmes Collection:
