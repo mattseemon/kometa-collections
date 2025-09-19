@@ -579,3 +579,5 @@ collections:
     template: {name: Collection, collection: 526380}
   Nobody Collection:
     template: {name: Collection, collection: 1129084}
+  Freaky Friday Collection:
+    template: {name: Collection, collection: 1125292}
