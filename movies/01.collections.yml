@@ -583,3 +583,5 @@ collections:
     template: {name: Collection, collection: 1125292}
   Paddington Collection:
     template: {name: Collection, collection: 488924}
+  The Family Plan Collection:
+    template: {name: Collection, collection: 1363124}
