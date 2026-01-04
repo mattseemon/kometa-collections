@@ -585,3 +585,5 @@ collections:
     template: {name: Collection, collection: 488924}
   The Family Plan Collection:
     template: {name: Collection, collection: 1363124}
+  Grown Ups Collection:
+    template: {name: Collection, collection: 180546}
