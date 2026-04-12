@@ -127,8 +127,6 @@ collections:
   Cruel Intentions Collection:
     template: {name: Collection, collection: 52789}
     url_poster: https://theposterdb.com/api/assets/91091
-  Cruella Collection:
-    template: {name: Collection, collection: 837007}
   Deadpool Collection:
     template: {name: Collection, collection: 448150}
     url_poster: https://theposterdb.com/api/assets/148779
