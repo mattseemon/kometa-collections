@@ -256,3 +256,13 @@ collections:
           - Teenage Mutant Ninja Turtles Collection
           - Teenage Mutant Ninja Turtles (Remake) Collection
     url_poster: https://theposterdb.com/api/assets/60487
+  The Planet of the Apes (Complete) Collection:
+    plex_search:
+      any:
+        collection:
+          - Planet of the Apes (Original) Collection
+          - Planet of the Apes (Reboot) Collection
+    tmdb_movie: 869
+    url_poster: https://theposterdb.com/api/assets/184312
+    summary: >-
+      Complete collection of all Planet of the Apes movies.
