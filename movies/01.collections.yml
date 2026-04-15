@@ -171,6 +171,8 @@ collections:
   Neighbors Collection:
     template: {name: Collection, collection: 400700}
     url_poster: https://theposterdb.com/api/assets/92862
+  Planet of the Apes (Original) Collection:
+    template: {name: Collection, collection: 1709}
   Planet of the Apes (Reboot) Collection:
     template: {name: Collection, collection: 173710}
   Predator Collection:
