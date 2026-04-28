@@ -587,3 +587,5 @@ collections:
     template: {name: Collection, collection: 1363124}
   Grown Ups Collection:
     template: {name: Collection, collection: 180546}
+  Charlie's Angels Collection:
+    template: {name: Collection, collection: 86029}
