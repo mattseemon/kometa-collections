@@ -464,8 +464,6 @@ collections:
     template: {name: Collection, collection: 295}
   Pitch Perfect Collection:
     template: {name: Collection, collection: 306031}
-  Plane Collection:
-    template: {name: Collection, collection: 1099094}
   The Princess Diaries Collection:
     template: {name: Collection, collection: 107674}
   The Princess Switch Collection:
