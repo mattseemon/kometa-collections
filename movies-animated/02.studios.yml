@@ -19,3 +19,8 @@ collections:
       all:
         studio: Dreamworks
     url_poster: https://theposterdb.com/api/assets/462033
+  Studio Ghibli Productions:
+    smart_filter:
+      all:
+        studio: Studio Ghibli
+    url_poster: https://theposterdb.com/api/assets/32223
