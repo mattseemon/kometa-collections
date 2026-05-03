@@ -511,6 +511,7 @@ collections:
     template: {name: Collection, collection: 531242}
   Superman Collection:
     template: {name: Collection, collection: 8537}
+    tmdb_movie: 624479
   Taken Collection:
     template: {name: Collection, collection: 135483}
   Teenage Mutant Ninja Turtles Collection:
@@ -588,3 +589,14 @@ collections:
   Charlie's Angels Collection:
     template: {name: Collection, collection: 86029}
     tmdb_movie: 458897
+  The Accountant Collection:
+    template: {name: Collection, collection: 870339}
+  Alien - Romulus Collection:
+    template: {name: Collection, collection: 1434946}
+  Miss Congeniality Collection:
+    template: {name: Collection, collection: 93220}
+  Mortal Kombat (Reboot) Collection:
+    template: {name: Collection, collection: 931431}
+  Drishyam Collection (Malayalam):
+    template: {name: Collection, collection: 787649}
+  
