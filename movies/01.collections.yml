@@ -599,4 +599,5 @@ collections:
     template: {name: Collection, collection: 931431}
   Drishyam Collection (Malayalam):
     template: {name: Collection, collection: 787649}
-  
+  Magic Mike Collection:
+    template: {name: Collection, collection: 328247}
