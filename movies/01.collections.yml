@@ -130,6 +130,8 @@ collections:
   Deadpool Collection:
     template: {name: Collection, collection: 448150}
     url_poster: https://theposterdb.com/api/assets/148779
+  The Devil Wears Prada Collection:
+    template: {name: Collection, collection: 1314623}
   Death Wish Collection:
     template: {name: Collection, collection: 14377}
     url_poster: https://theposterdb.com/api/assets/164772
