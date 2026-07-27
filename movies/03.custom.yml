@@ -240,6 +240,7 @@ collections:
         collection:
           - Star Wars Collection
           - A Star Wars Story Collection
+    tmdb_movie: 1228710
     url_poster: https://theposterdb.com/api/assets/102957
   Star Trek (Complete) Collection:
     plex_search:
